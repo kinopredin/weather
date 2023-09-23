@@ -1,0 +1,52 @@
+body{
+    /* background-color: black; */
+
+  background-image: url("img1.jpg");
+}
+#color{
+     margin-top:47px;
+     /* margin-left: 772px; */
+}
+
+#sub{
+    margin-left:386px;
+}
+
+#b{
+    margin-left: 50px;
+}
+#pic{
+    margin-left:832px;
+    font-size: 50px;
+}
+
+#f{
+    font-size: 50px;
+    color: black;
+    
+}
+
+#f2{
+    font-size: 30px;
+    color: black;
+    
+
+}
+
+#c2{
+    margin-top: 50px;
+}
+
+@media (max-width:600px) {
+    #pic{
+        margin-left:103px;
+    }
+    #f{
+        color: whitesmoke;
+    }
+
+    #f2{
+        color: whitesmoke;
+    }
+    
+}
